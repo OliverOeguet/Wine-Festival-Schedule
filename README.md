@@ -1,7 +1,7 @@
-## Just a simple List! [Watch Website:](https://oliveroeguet.github.io/Wine-Festival-Schedule)
+## Just a simple List! Watch on [Website:](https://oliveroeguet.github.io/Wine-Festival-Schedule)
 
 |       Wine Festival Schedule      |
-|----------|------------------------|
+
 | TIME     | EVENT                  |
 |----------|------------------------|
 | 12:00 PM | WELCOME RECEPTION      |
