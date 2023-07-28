@@ -1,6 +1,4 @@
-# Wine-Festival-Schedule
-
-## Just a simple List! 
+## Just a simple List! [Watch Website:](https://oliveroeguet.github.io/Wine-Festival-Schedule)
 
 |       Wine Festival Schedule      |
 |----------|------------------------|
@@ -10,4 +8,4 @@
 | 01:00 PM | STORYTELLING & TASTING |
 | 02:00 PM | WINE LUNCHEON          |
 | 03:00 PM | AGUILLAR FAMILY WINES  |
-| 04:00 PM | WINE & CHEESE TASTING |
+| 04:00 PM | WINE & CHEESE TASTING  |
