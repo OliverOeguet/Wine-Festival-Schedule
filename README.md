@@ -1,6 +1,6 @@
-## Just a simple List! Watch on [Website:](https://oliveroeguet.github.io/Wine-Festival-Schedule)
+## Create a simple List! Spectate on [Website:](https://oliveroeguet.github.io/Wine-Festival-Schedule)
 
-|       Wine Festival Schedule      |
+Wine Festival Schedule
 
 | TIME     | EVENT                  |
 |----------|------------------------|
